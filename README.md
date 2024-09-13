@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a browser extension for regional carbon footprint.
 - 🌱 I’m currently learning Node.JS, Vue.JS
 - 📫 Reach me <a href="https://thisiseda.netlify.app/contact" target="_blank">here</a>
-- 🐦 Follow me on twitter  <a href="https://twitter.com/" target="_blank">@wabitty</a>
+- 🐦 Follow me on twitter  <a href="https://twitter.com/" target="_blank"></a>
 - 💁‍♀️ See my <a href="https://thisisEda.netlify.app" target="_blank">portfolio</a>
 - Pronouns: she/her
 
